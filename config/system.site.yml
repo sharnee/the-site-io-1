@@ -1,0 +1,14 @@
+uuid: 12d5b8b4-8d7e-4396-9eba-31b2c0f8d8bc
+name: the-site-io-1
+mail: shareefrancis11@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
